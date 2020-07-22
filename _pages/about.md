@@ -1,8 +1,15 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Andrew, I'm an aspiring Game Producer / Project Manager based in Singapore.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm a *Senior* student at DigiPen Institute of Technology, Singapore.
+I'm pursuing a **Bachelor of Science in Computer Science & Game Design**, graduating in May 2021.  
+
+I have a passion for Game Production and am currently looking for a production related internship in the Games Industry to kickstart my career!
+
+This website contains my [Portfolio](portfolio.md), [Résumé](resume.md) and a personal [Blog](blog.md).
