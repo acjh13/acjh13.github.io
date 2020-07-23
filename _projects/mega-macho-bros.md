@@ -36,17 +36,17 @@ gallery:
     #  image_path:  assets/images/projects/mmb/teaser.jpg
     #  alt: ""
 
-    #- url:        /assets/images/projects/mmb/mmb.png
-    #  image_path:  assets/images/projects/mmb/mmb.png
+    - url:        /assets/images/projects/mmb/title.png
+      image_path:  assets/images/projects/mmb/title.png
 
-    #- url:        /assets/images/projects/mmb/1.png
-    #  image_path:  assets/images/projects/mmb/1.png
+    - url:        /assets/images/projects/mmb/1.png
+      image_path:  assets/images/projects/mmb/1.png
 
-    #- url:        /assets/images/projects/mmb/2.png
-    #  image_path:  assets/images/projects/mmb/2.png
+    - url:        /assets/images/projects/mmb/2.png
+      image_path:  assets/images/projects/mmb/2.png
 
-    #- url:        /assets/images/projects/mmb/3.png
-    #  image_path:  assets/images/projects/mmb/3.png
+    - url:        /assets/images/projects/mmb/3.png
+      image_path:  assets/images/projects/mmb/3.png
 
     #- url:        /assets/images/projects/mmb/4.png
     #  image_path:  assets/images/projects/mmb/4.png
@@ -64,6 +64,7 @@ categories:
 tags:
   - Action
   - Platformer
+  - Shooter
   - GAM
   - DigiPen
   - Singapore

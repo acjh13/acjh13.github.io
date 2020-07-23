@@ -36,14 +36,14 @@ gallery:
     #  image_path:  assets/images/projects/ld46/teaser.jpg
     #  alt: ""
 
-    #- url:        /assets/images/projects/ld46/ld46.png
-    #  image_path:  assets/images/projects/ld46/ld46.png
+    - url:        /assets/images/projects/ld46/3.png
+      image_path:  assets/images/projects/ld46/3.png
 
-    #- url:        /assets/images/projects/ld46/1.png
-    #  image_path:  assets/images/projects/ld46/1.png
+    - url:        /assets/images/projects/ld46/1.png
+      image_path:  assets/images/projects/ld46/1.png
 
-    #- url:        /assets/images/projects/ld46/2.png
-    #  image_path:  assets/images/projects/ld46/2.png
+    - url:        /assets/images/projects/ld46/2.png
+      image_path:  assets/images/projects/ld46/2.png
 
     #- url:        /assets/images/projects/ld46/3.png
     #  image_path:  assets/images/projects/ld46/3.png
@@ -72,7 +72,7 @@ tags:
 
 ## Description
 
-Go Home! is a game developed for Ludum Dare 46 - Theme: "Keep It Alive".  
+Go Home! is a game developed for **Ludum Dare 46** - Theme: "*Keep It Alive*".  
 It was developed over 1 weekend as part of the Ludum Dare game jam.  
 
 Players take the role of a guy who's had too much of people breaking the pandemic lock-down and spreading the infection.  
