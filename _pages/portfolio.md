@@ -8,5 +8,4 @@ classes: wide
 author_profile: true
 ---
 
-All projects.
-
+All notable personal or professional projects.
