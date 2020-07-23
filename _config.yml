@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: acjh13
 minimal_mistakes_skin: dirt
 search: true
-logo: 
+logo: "/assets/images/icon2.png"
 
 # Build settings
 markdown: kramdown
@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-pdf-embed
 
 author:
   name   : "Andrew Chong Jiahao"
@@ -73,6 +74,9 @@ author:
     - label:  "Itch"
       icon:   "fab fa-itch-io"
       url:    "https://acjh13.itch.io/"
+    - label:  "Email"
+      icon:   "fas fa-fw fa-envelope-square"
+      url:    mailto:acjh13@gmail.com
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
@@ -114,6 +118,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
