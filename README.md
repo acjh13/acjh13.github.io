@@ -1,6 +1,6 @@
 # acjh13.github.io
 
-My GitHub Pages repository, that is being used as a personal site which houses my Portfolio, notable Projects and a Blogging platform.
+My GitHub Pages repository, that is being used as a personal site which houses my Portfolio of notable Projects, Resume and Blog posts.
 
 Currently a Work-In-Progress.
 
