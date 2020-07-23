@@ -6,3 +6,4 @@ classes: wide
 author_profile: true
 ---
 
+{% pdf "/assets/AndrewChong_Resume.pdf" %}
