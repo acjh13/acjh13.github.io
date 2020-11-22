@@ -25,7 +25,7 @@ sidebar:
     text:   "Producer, Programmer, Designer"
 
   - title:  "Responsibilities"
-    text:   "Producer, Editor Programmer, Gameplay Designer / Programmer and Cinematics Designer"
+    text:   "Producer, Editor Programmer, Gameplay and Cinematics Designer"
     
   - title:  "Project Status"
     text:   "Completed"
@@ -84,22 +84,24 @@ It is a 3D narrative platformer where players relive old memories as Father and 
 
 ## Main Responsibilities
 
-My main contributions to this project were as a Producer and a Programmer/Designer.  
+My main contributions to this project were as a Producer, Programmer and Designer.  
 
 ### Production
 
 Production-wise I managed a team of 11: 3 artists, 6 programmers and 2 designers. It was a bigger team than I had previously managed and I had to quickly learn how to delegate tasks and responsibilities to the leads rather than tracking them myself.
 
-I followed an *Agile and Scrum* management style, with weekly team meetings to discuss progress, prioritise upcoming tasks and generally as a sync-up point so the team was aware of the project's progress. I also integrated a *Kanban* approach to breaking down and viewing the various tasks of the different departments via Trello.
+I followed an *Agile and Scrum* management style, with weekly team meetings to discuss progress, prioritise upcoming tasks and generally as a sync-up point so the team was aware of the project's progress. I also used a *Kanban* approach to breaking down and viewing the various tasks of the different departments via Trello.
 
 With a large team, I sought to setup pipelines between each departments, linking them to members of importance in other departments. For example, I worked with the Technical Lead/Scripting Programmer to setup a bug reporting system when the Design team would encounter issues with scripting behaviours.
 
 I also ensured that each milestone's submission was of high quality and as bug-free as possible, QA testing the project at every submission.
 
+Read my personal post-mortem [here]({% link _posts/2020-11-23-Postmortem-Kindred.md %})!
+
 ### Programming
 
 On the Programming side, I worked on
-- Level editor, created with ImGui and had features like
+- Level editor, created with [Dear ImGui](https://github.com/ocornut/imgui) and had features like
   - Drag and drop for asset swapping
   - Undo/Redo manager
   - Nested tree view of the scene

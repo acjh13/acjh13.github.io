@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Andrew Chong Jiahao"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Student game developer and aspiring game producer."
+  bio    : "Student Game Developer & Aspiring Game Producer."
   links:
     - label:  "LinkedIn"
       icon:   "fab fa-fw fa-linkedin"

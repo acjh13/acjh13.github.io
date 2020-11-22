@@ -12,89 +12,92 @@ Click [here]({% link assets/AndrewChong_Resume.pdf %}) for a PDF version.
 
 ## **Summary**
 
-Multi-discipline Project Manager with experience developing, designing and managing interactive projects in stressful environments. Passionate about facilitating and coordinating projects where my teams can function smoothly and perform at their best.
+Highly adaptive and multi-disciplinary Producer / Project Manager. Experienced in leading interdisciplinary
+teams in fast-paced environments. Keen eye for quality and risk assessment. Passionate about elevating teams
+to excellence by ensuring smooth processes and pipelines
 
 ---
 
 ## **Skills**
-### Technical Skills  
 
-| Management Methodologies | Management Software | Programming Languages | Game Software | Art Software |
-|--------------------------|---------------------|----------------------|------------------|-----------------|
-| Agile                    | Trello              | C/C++                | Unreal Engine 4  | Krita           |
-| Scrum                    | HacknPlan           | C#                   | Unity            | Maya            |
-| Kanban                   |                     | Python               | Custom Game Engine(s) | Blender         |
-| Waterfall                |                     | Rust (Familiar)      | Godot (Familiar) |                 |
-
-### Professional Skills  
-
-|---------------------|------------|-----------------|----------------|--------------|
-| Leadership          | Management | Public Speaking | Communications | Adaptability |
+| Management Methods | Management Software           | Software & Tools | Programming & Scripting |
+|--------------------|-------------------------------|------------------|-------------------------|
+| Agile              | Jira                          | Git/SVN          | C/C++                   |
+| Scrum              | Confluence                    | Slack            | C#                      |
+| Kanban             | Microsoft Excel/Google Sheets | Microsoft Office | Python                  |
+| Waterfall          | Trello                        | Visual Studio    | JavaScript              |
+|                    | HacknPlan                     | Unity            |                         |
+|                    |                               | Unreal Engine 4  |                         |
 
 ---
 
 ## **Experience**
 
-### Teaching Assistant - DigiPen Singapore
-September 2019 - March 2020  
-Teaching Assistant for game project module for Sophomore students.  
-Assisted production lecturer with various responsibilities:  
-• Checked on project progress for teams at each milestone  
-• Mediated cross-discipline discussions and conflicts  
-• Advised teams on project scoping issues and task scheduling  
-• Offered game design feedback and programming advice 
+### Production Intern
+gumi Asia Pte Ltd - *Final Fantasy Brave Exvius*  
+September 2020 - Present  
+• Prepared and maintained monthly and weekly event lists for content updates with **Google Sheets** and **Confluence**  
+• Created and organised tasks for Design team with **Jira**  
+• Assisted Associate Producer in integrating new ticketing workflow  
+• Took initiative to create script to streamline production workflow  
 
-### Intern - Connectbit Pte Ltd
-March 2014 - April 2014
-Worked on and intergrated CRM software into company workflow
+### Production Teaching Assistant
+DigiPen Singapore  
+September 2019 - March 2020  
+• Advised student game teams on project scoping and task scheduling  
+• Mediated cross-discipline discussions and conflicts  
+• Assisted teams with project scope and scheduling issues  
+
+### Intern
+Connectbit Pte Ltd  
+March 2014 - April 2014  
+• Redesigned company website on Wordpress  
+• Intergrated CRM software into company-wide workflow  
 
 ---
 
 ## **Projects**
 
 ### Kindred
-Junior Game Project - 3D narrative platformer  
-(Sep 2019 – June 2020)  
+September 2019 – June 2020, 35 weeks | 11 Person Team  
 Producer / Editor Programmer / Gameplay & Cinematics Designer  
-• Developed in a Custom Game Engine (C++ / C#)  
-• Managed a team of 11 students, consisting of 3 artists, 6 programmers and 2 designers  
-• Adopted *Agile* management methodology, weekly *Scrum* meetings and *Kanban* task boards  
-• Set up workflows and pipelines between each department for better communication  
-• Implemented all major editor features including an Undo/Redo system (C++)  
-• Designed and implemented a narrative system for in-game dialogue and cutscenes (C#)  
-• Designed all in-game cinematics 
+• 3D single player narrative game developed on a custom C++ engine and editor with C# scripting  
+• Worked closely with team members of 4 disciplines  
+• Communicated game’s direction across team members and lecturers  
+• Adopted Agile methodology with weekly Scrum meetings and Kanban task boards  
+• Created workflows and pipelines between departments for better communication  
+
+Read about Kindred [here]({% link _projects/kindred.md %})!
  
-### Procedural Biome Generation
-AI Research Project - 3D biome generation  
-(July 2019)  
-Researcher and Developer  
-• Developed in Unity (C#)  
-• Worked with 2 other programmers  
+### Procedural Biome Generation  
+July 2019, 3 weeks | 3 Person Team  
+Researcher / Developer  
+• AI Research Project about 3D biome generation developed in Unity (C#)  
 • Researched and developed the base of the procedural biome generation  
 • Integrated data sets like moisture and heat maps for more realistic map generation  
 • Generated biome layers via real-world biome categories  
 • Integrated with rainfall simulation and human territory simulation 
  
 ### Mega Macho Brothers
-Sophomore Game Project - 2D co-op action platformer  
-(Sep 2018 – Apr 2019)  
-Producer / Engine, Editor & Audio Programmer  
-• Developed in a Custom Game Engine (C++)  
-• Managed a team of 7 members, consisting of 1 artist, 4 programmers and 2 designers  
-• Led and organized weekly sync-up meetings with team members  
-• Reprioritised and cut features after gathering feedback from the team to prevent feature creep  
-• Implemented all major editor features, including an AI editor interface (C++)  
-• Developed core engine features, including the Serialization, Entity Creation and Audio systems (C++)  
+September 2018 – April 2019, 30 weeks | 7 Person Team  
+Producer / Engine & Editor Programmer  
+• 2D co-op action platformer developed on a custom C++ engine and editor  
+• Worked closely with team members of 4 disciplines  
+• Led and organized weekly meetings with team members  
+• Worked with lecturers and team members to overcome internal conflicts  
 • Awarded Unity Best Sophomore Game, DigiPen Game Awards 2019  
+
+Read about Mega Macho Brothers [here]({% link _projects/mega-macho-bros.md %})!
 
 ---
 
 ## **Education**
-- **DigiPen Institude of Technology, Singapore**  
-Bachelors of Science (B.Sc) in Computer Science and Game Design  
-September 2017 - Present
+**DigiPen Institude of Technology, Singapore**  
+Bachelors of Science in Computer Science and Game Design  
+September 2017 - Present  
+**Dean's Honour List, Fall 2019**
 
-- **Singapore Polytechnic**  
+**Singapore Polytechnic**  
 Diploma in Business Information Technology  
 2012 - 2015
 

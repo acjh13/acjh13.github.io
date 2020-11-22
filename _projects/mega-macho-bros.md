@@ -100,7 +100,7 @@ On the Programming side, I worked on
 - Entity manager
 - Serialization
 - Audio system
-- Level editor, created in ImGui and had features like
+- Level editor, created with [Dear ImGui](https://github.com/ocornut/imgui) and had features like
     - Drag and drop for asset swapping
     - Nested tree view of the scene
     - AI editor interface for modifying enemy AI
