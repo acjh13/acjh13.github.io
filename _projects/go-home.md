@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.6 # the lower the more visible the image is
   #caption: "test caption" # appears at the bottom right of the overlay
   actions:
-    - label:  "Download it on Itch"
+    - label:  "Download or Play it on Itch"
       url:    "https://acjh13.itch.io/go-home"
   #video:
   #  id: oB_Zaoc2pgY
@@ -73,7 +73,7 @@ tags:
 ## Description
 
 Go Home! is a game developed for **Ludum Dare 46** - Theme: "*Keep It Alive*".  
-It was developed over 1 weekend as part of the Ludum Dare game jam.  
+It was developed over 1 weekend by myself as a solo participant.  
 
 Players take the role of a guy who's had too much of people breaking the pandemic lock-down and spreading the infection.  
 Get them to stay home the only way you know how.  

@@ -74,7 +74,7 @@ tags:
 
 ## Description
 
-Kindred was a game developed as part of the GAM300/350 module at DigiPen Singapore. It was developed by a team of 11 full-time students over the course of ~ 9 months, including pre-production and post-production.
+Kindred was a game developed as part of the GAM300/350 module at DigiPen Singapore. It was developed by a team of 11 full-time students over the course of ~9 months, including pre-production and post-production.
 
 It is a 3D narrative platformer where players relive old memories as Father and Son. Playing as each character, they journey through old and warped memories and relive moments of their lives with one another.
 
