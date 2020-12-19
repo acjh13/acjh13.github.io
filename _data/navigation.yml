@@ -2,6 +2,6 @@ main:
   - title: "Portfolio"
     url:  /portfolio/
   - title: "Resume"
-    url:  /resume/
+    url:  /assets/AndrewChong_Resume.pdf
   - title: "Blog"
     url:  /blog/

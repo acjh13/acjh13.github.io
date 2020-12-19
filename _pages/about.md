@@ -8,12 +8,12 @@ author_profile: true
 My name is Andrew, I'm an aspiring Game Producer / Project Manager based in Singapore.
 
 I'm a *Senior* student at DigiPen Institute of Technology, Singapore.
-I'm pursuing a **BSc. Computer Science & Game Design**, graduating in May 2021.  
+I'm pursuing a **BSc. Computer Science & Game Design**, graduating in March 2021.  
 
-I have a passion for Game Production and am currently looking for an entry-level production position in the Games Industry to kickstart my career!
+I have a passion for Production & Project Management and am currently looking for an entry-level position in the Games/Technology Industry to kickstart my career!
 
 **</>** C, C++, C#, Python, JavaScript, Rust  
-**Software** Jira, Confluence, Trello, Microsoft Excel / Google Sheets, Unity, Unreal Engine 4
+**Software** Jira, Confluence, Trello, Microsoft Excel, Google Sheets, Unity, Unreal Engine 4
 
 ---
 
