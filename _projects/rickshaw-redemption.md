@@ -72,7 +72,7 @@ tags:
 
 ## Description
 
-Rickshaw Redemption is a game developed for Singapore's **Heritage Game Jam**.  
+Rickshaw Redemption is a game developed for Singapore's inaugural **Heritage Game Jam** in 2020.  
 It was developed over 1 week with a team of 6 students.  
 
 Play as a not-so-knowledgeable rickshaw runner who has to quickly learn about his heritage to answer the questions from tourists!
@@ -82,14 +82,14 @@ Play as a not-so-knowledgeable rickshaw runner who has to quickly learn about hi
 My main contributions to this project was as a Producer and Narrative Designer / Writer.
 
 ### Production
-Although we had a larger than usual game jam team, the decision was made early on to split the team into 2, with the members who were new to making gam jams take the lead in the programming the various mechanics of the game and a more experienced member leading them. The other half handled the more creative side of the game, mainly focusing around the art, music and narrative.
+Although we had a larger than usual game jam team, the decision was made early on to split the team into 2, with the members who were new to game jams taking the lead in programming the various mechanics of the game with an experienced member leading them. The other half of the team handled the more creative side of the game, mainly focusing around the art, music and narrative.
 
 However, with all of us being full-time students and the game jam being a week-long, most members were unable to contribute consistently due to academic commitments.
 
 ### Narrative
-Although Rickshaw Redemption is a trivia game at its core, we wanted the main character to have some sort of personality and character, distinguishing itself from over more mainstream trivia games while also reflecting on how modern Singaporeans view their heritage.
+Although Rickshaw Redemption is a trivia game at its core, we wanted the main character to have some sort of personality and character, distinguishing itself from traditional trivia games while also reflecting on how a modern Singaporean could potentially view their heritage.
 
-For each question and answer section, there had to be several believable options to answer with along with interesting responses! Most of my time working on this game was spent researching on the history of heritage site featured in-game and coming up with plausible responses (with a local twist).
+For each question and answer, there had to be several believable options to answer with along with interesting responses! Most of my time working on this game was spent researching on the history of heritage site featured in-game and coming up with plausible responses (with a local twist).
 
 ### Art
 Since we decided to feature several notable heritage sites in-game, we had to find a method to draw these sites while also retaining most of their notable features. Since I was also the one deciding on which sites were going to be featured, the artist and I decided on using a pixelisation application called [Pixelator](http://pixelatorapp.com/) and cleaned up the results in Photoshop / Krita.

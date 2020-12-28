@@ -2,8 +2,6 @@
 
 My GitHub Pages repository, that is being used as a personal site which houses my Portfolio of notable Projects, Resume and Blog posts.
 
-Currently a Work-In-Progress.
-
 <!--
 # Minimal Mistakes remote theme starter
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
