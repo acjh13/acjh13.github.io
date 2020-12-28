@@ -28,7 +28,7 @@ These pipelines included:
 The narrative designer, level designer and art team would work together and develop iterations of the level. First the narrative designer would communicate the general look of the level to the level designer and what part of the story the level would take place in.  
 Following this, the level designer would blockout the level and communicate the key locations of level to the art team. The art team would then create assets befitting the level's location and start to populate the level.
 - Art & Editor  
-The art team learnt how the editor worked and was able to not only test models/animations and create effects by themselves, but also independently work on populating the levels with environmental props once the level design was complete.
+The art team learnt how to use the level editor and was able to not only test models/animations and create effects by themselves, but also independently work on populating the levels with environmental props once the level design was complete.
 - Design & Tech  
 The design team was able to work independently of the technical team when they were scripting behaviours for the game's mechanics. The technical team would layout guidelines on how to use the different parts of the engine, while the designers would report any bugs encountered with a standardised bug report template.  
 Designers could also request certain features to be exposed to the scripting system and the respective programmer would do so or present a work-around.  
