@@ -82,6 +82,9 @@ It is a 3D narrative platformer where players relive old memories as Father and 
 
 {% include video id="oB_Zaoc2pgY" provider="youtube" %}
 
+The below video was recorded as part of SGGA's Student Portfolio Showcase. There I presented the game to a virtual audience and gave a general overview of the game and its development. Since it is a recording of a recording, the frame-rate of the game is quite low.
+{% include video id="buLw5Sp3KmI" provider="youtube" %}
+
 ## Main Responsibilities
 
 My main contributions to this project were as a Producer, Programmer and Designer.  
