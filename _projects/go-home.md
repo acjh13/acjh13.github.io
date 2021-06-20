@@ -73,11 +73,11 @@ tags:
 ## Description
 
 Go Home! is a game developed for **Ludum Dare 46** - Theme: "*Keep It Alive*".  
-It was developed over 1 weekend by myself as a solo participant.  
+It was developed over 1 weekend as a solo participant.  
 
-Players take the role of a guy who's had too much of people breaking the pandemic lock-down and spreading the infection.  
+Players take the role of a guy who has had too much of people breaking the pandemic lock-down and spreading the infection.  
 Get them to stay home the only way you know how.  
-By yelling in their faces until their comply!
+By yelling in their faces until they comply!
 
 ## Main Responsibilities
 

@@ -82,7 +82,7 @@ It is a 3D narrative platformer where players relive old memories as Father and 
 
 {% include video id="oB_Zaoc2pgY" provider="youtube" %}
 
-The below video was recorded as part of SGGA's Student Portfolio Showcase. There I presented the game to a virtual audience and gave a general overview of the game and its development. Since it is a recording of a recording, the frame-rate of the game is quite low.
+The below video was recorded as part of SGGA's Student Portfolio Showcase. There I presented the game to a virtual audience and gave a general overview of the game and its development. Since it is a recording of a recording, the framerate of the game is quite low.
 {% include video id="buLw5Sp3KmI" provider="youtube" %}
 
 ## Main Responsibilities
@@ -91,11 +91,11 @@ My main contributions to this project were as a Producer, Programmer and Designe
 
 ### Production
 
-Production-wise I managed a team of 11: 3 artists, 6 programmers and 2 designers. It was a bigger team than I had previously managed and I had to quickly learn how to delegate tasks and responsibilities to the leads rather than tracking them myself.
+Production-wise I managed a team of 11: 3 artists, 6 programmers and 2 designers. It was a bigger team than I had previously managed, and I had to quickly learn how to delegate tasks and responsibilities to the leads rather than tracking them myself.
 
 I followed an *Agile and Scrum* management style, with weekly team meetings to discuss progress, prioritise upcoming tasks and generally as a sync-up point so the team was aware of the project's progress. I also used a *Kanban* approach to breaking down and viewing the various tasks of the different departments via Trello.
 
-With a large team, I sought to setup pipelines between each departments, linking them to members of importance in other departments. For example, I worked with the Technical Lead/Scripting Programmer to setup a bug reporting system when the Design team would encounter issues with scripting behaviours.
+With a large team, I sought to setup pipelines between each department, linking them to members of importance in other departments. For example, I worked with the Technical Lead/Scripting Programmer to setup a bug reporting system when the Design team would encounter issues with scripting behaviours.
 
 I also ensured that each milestone's submission was of high quality and as bug-free as possible, QA testing the project at every submission.
 

@@ -90,7 +90,7 @@ My main contributions to this project were as a Producer and Programmer.
 
 I managed a team of 7 members: 1 artist, 4 programmers and 2 designers. It was the first time I formally worked on a project as a Producer and while I learnt about about good practices, I also made a lot of mistakes along the way.
 
-Initially, meetings were carried out in a "semi" *Agile* style, with entire team meetings only happening when a major feature/milestone was completed and I needed everyone's feedback on the next milestone. Once I realised that progress was difficult to track, I enforced weekly meetings that also served to keep members updated on progress of each department.
+Initially, meetings were carried out in a "semi" *Agile* style, with entire team meetings only happening when a major feature/milestone was completed, and I needed everyone's feedback on the next milestone. Once I realised that progress was difficult to track, I enforced weekly meetings that also served to keep members updated on progress of each department.
 
 [HacknPlan](https://hacknplan.com/) was also used to help visualise the progress of features and bugs, helping tremendously in assessing how the project was progressing.
 

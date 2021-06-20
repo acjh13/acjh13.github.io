@@ -75,14 +75,14 @@ tags:
 Rickshaw Redemption is a game developed for Singapore's inaugural **Heritage Game Jam** in 2020.  
 It was developed over 1 week with a team of 6 students.  
 
-Play as a not-so-knowledgeable rickshaw runner who has to quickly learn about his heritage to answer the questions from tourists!
+Play as a not-so-knowledgeable rickshaw runner who must quickly learn about his heritage to answer the questions from tourists!
 
 ## Main Responsibilities
 
-My main contributions to this project was as a Producer and Narrative Designer / Writer.
+My main contributions to this project were as a Producer and Narrative Designer / Writer.
 
 ### Production
-Although we had a larger than usual game jam team, the decision was made early on to split the team into 2, with the members who were new to game jams taking the lead in programming the various mechanics of the game with an experienced member leading them. The other half of the team handled the more creative side of the game, mainly focusing around the art, music and narrative.
+Although we had a larger than usual game jam team, the decision was made early on to split the team into 2, with the members who were new to game jams taking the lead in programming the various mechanics of the game with an experienced member leading them. The other half of the team handled the more creative side of the game, mainly focusing on the art, music, and narrative.
 
 However, with all of us being full-time students and the game jam being a week-long, most members were unable to contribute consistently due to academic commitments.
 
