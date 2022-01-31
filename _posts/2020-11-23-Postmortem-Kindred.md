@@ -7,7 +7,7 @@ tags:
   - postmortem
 ---
 
-**DISCLAIMER**: This is a *personal* postmortem from the viewpoint of the game's Producer, Andrew Chong. All thoughts are my own.
+**DISCLAIMER**: This is a *personal* postmortem from the viewpoint of the game's Producer, Andrew Chong. All opinions are my own.
 
 # Overview
 Kindred is a 3rd Person Narrative Platformer developed by Arctic Studios as part of the GAM300/350 module at DigiPen Singapore. For a more detailed overview of Kindred and my roles in the project, click [here]({% link _projects/kindred.md %}). This postmortem describes what went right and what went wrong with the development of the game.  
